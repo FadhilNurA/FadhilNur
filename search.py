@@ -1,7 +1,7 @@
 #Muhammad Fadhil Nur Aziz
 #2306275531
 #Kelas G SAN
-
+#https://github.com/ir-nlp-csui/indo-law/tree/main -> untuk mencari file xmlnya silahkan download ini
 
 import os
 import sys
